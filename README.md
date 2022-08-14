@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Nikhil Kale (@Kaleniksk
-- 👀 I’m interested in ...
+- 👀 I’m interested in Data science, Machin learning, Artificial intelligence, python, SQL.
 - 🌱 I’m currently learning Machine Learning 
 - 💞️ I’m looking to collaborate on
 - 📫 You can connect with me through nikhil.kale2793@gmail.com or 7972624788
