@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Nikhil Kale 
 - 👀 I’m interested in Data science, Machin learning, Artificial intelligence, python, SQL.
-- 🌱 I’m currently learning Machine Learning 
-- 💞️ I’m looking to collaborate on data analysis, machine learning
-- 📫 You can connect with me through nikhil.kale2793@gmail.com or 7972624788
+- 🌱 I’m currently working as a associate software engineer in stock market domain.
+- 💞️ I’m looking to collaborate on data analysis, machine learning.
+- 📫 You can connect with me through nikhil.kale2793@gmail.com or 7972624788.
 
 <!---
 Kaleniks/Kaleniks is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
